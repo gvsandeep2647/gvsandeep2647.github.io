@@ -2065,7 +2065,7 @@ header .logo a {
  *
  * ------------------------------------------------------------------- 
  */
-#services {
+#summary {
 	background: #313131 url(../images/bg.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -2075,7 +2075,7 @@ header .logo a {
 	color: white;
 	position: relative;
 }
-#services .overlay {
+#summary .overlay {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -2085,42 +2085,42 @@ header .logo a {
 	opacity: .9;
 }
 
-#services .section-intro {
+#summary .section-intro {
 	margin-bottom: 1.8rem;
 }
 
-#services .section-intro h1 {
+#summary .section-intro h1 {
 	color: white;
 }
-#services .section-intro h5 {
+#summary .section-intro h5 {
 	color: #cc0000;
 }
-#services .section-intro p {
+#summary .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
 }
-.services-content {
+.summary-content {
 	max-width: 1200px;
 }
-.services-list {
+.summary-list {
 	margin-top: 1.2rem;
 	text-align: center;
 }
-.services-list .service {
+.summary-list .service {
 	margin-bottom: 1.2rem;
 	padding: 0 30px;
 }
-.services-list .icon {
+.summary-list .icon {
 	display: inline-block;
 	margin-bottom: 2.1rem;
 }
-.services-list .icon i {
+.summary-list .icon i {
 	font-size: 5.4rem;
 	color: #cc0000;
 }
-.services-list h3 {
+.summary-list h3 {
 	color: #FFFFFF;
 }
-.services-list .desc {
+.summary-list .desc {
 	color: rgba(255, 255, 255, 0.6);
 }
 
